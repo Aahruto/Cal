@@ -1,5 +1,5 @@
 {
-  "name": "node-js-calc",
+  "name": "@aahruto/node-js-calc",
   "author": "Aahruto",
   "version": "1.0.0",
   "description": "Node.js Calculator (similar to the built-in feature Math)",
