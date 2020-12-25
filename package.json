@@ -3,7 +3,7 @@
   "author": "Aahruto",
   "version": "1.0.0",
   "description": "Node.js Calculator (similar to the built-in feature Math)",
-  "license": "MIT",
+  "license": "GPL-3.0-or-later",
   "main": "./src/index.js",
   "scripts": {
     "test": "node test/test.js"
