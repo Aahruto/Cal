@@ -1,10 +1,10 @@
 {
   "name": "@aahruto/node-js-calc",
   "author": "Aahruto",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node.js Calculator (similar to the built-in feature Math)",
   "license": "GPL-3.0-or-later",
-  "main": "./src/index.js",
+  "main": "./lib/index.js",
   "scripts": {
     "test": "node test/test.js"
   },
