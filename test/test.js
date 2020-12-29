@@ -1,4 +1,4 @@
-const Cal = require('../index');
+const Cal = require('../lib/index')
 
 console.log(
     Cal.help(),
